@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "categoria": "celulares",
+    "imagen": [
+      "https://http2.mlstatic.com/D_NQ_NP_695705-MLA48697032624_122021-O.webp",
+      "https://m.media-amazon.com/images/I/81t8kQP6OQL.jpg",
+      "https://cellphonewarehousebw.com/1001-large_default/samsung-galaxy-a12-128gb.jpg",
+      "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/0a70a747-093e-4d79-88e8-e11a3c0ffe1a.f0b76a0c3e8d6585f1299bbb4d7e4fbd.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    ],
+    "nombre": "Samsung Galaxy A12",
+    "marca": "Samsung",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+
+  {
+    "id": 2,
+    "categoria": "celulares",
+    "imagen": [
+      "https://http2.mlstatic.com/D_NQ_NP_918579-MLM51559384401_092022-O.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV72LDGHcRwpvp7DN0B0koyStZJaR2tMnWD8qEX73NXGY719I3_Sx_8FCIRmgDFoV59w4&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtu7jStltyOpdLVj7sssLl3DvtC6AZn_r4b7amJbibpUz8GZTMIJ7r8tPjyCdNNfI3tNY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOgFgzwxoaM9sj13SFgHX2hFJEP1c1e7r5aXixk4AdU9IZ64YJE6Dpl8rSv3jt5aGTOW0&usqp=CAU"
+    ],
+    "nombre": "iPhone 14",
+    "marca": "Apple",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+
+  {
+    "id": 3,
+    "categoria": "celulares",
+    "imagen": [
+      "https://co.celulares.com/fotos/huawei-p30-lite-81239-g-alt.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHjPayFqHMVYyCgwgUXpQ6OTXpt4stHgE0r-61-jXbwa6jKGPUIaqgjU7jwOv1u-j7FM&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkhCalhSVOvtn55fbBAibWR54S-QAx3YgF_L6v-FFNM2gpfIVD4ZZ2DuNaGXpZfNogsc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpbBeL0MWA83THBRVo4-pY11KH4cqYrSDOhHScIRpftKWxBL85RZlXUXX_GHuw6mGJNE&usqp=CAU"
+    ],
+    "nombre": "Huawei p30",
+    "marca": "Huawei",
+    "estrellas": 5,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+
+  {
+    "id": 4,
+    "categoria": "celulares",
+    "imagen": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0vaok2Rzs1rXiRbIXnimwo8iSkd1OFCrhGKViIOsckaqV3UmPggjeDXILmIZd0gjz-zU&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0DjciX7jdCc3HWiSpVZn1h4trSegir-I17NXMHvEkeAEQ0K5vY39wYeCRaABQIriYPc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzxYiWyrZl5ZU5RLOSNH_sbKNun4X4BHbQ63LTrd5KFb6-GCbDN1gBSk5tF_cj4NDFx4&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK71_zvMPDBjoStki825A7UVxF016LAbsKQgKvuQc6KejWptIih61EhjOFv-nmRNilrEU&usqp=CAU"
+    ],
+    "nombre": "Xiaomi redmi note 13",
+    "marca": "Xiaomi",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+
+  {
+    "id": 5,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://www.credinorte.com.co/wp-content/uploads/2020/06/XTZ-125-5.jpg",
+      "https://www.credinorte.com.co/wp-content/uploads/2020/06/XTZ-125-4-1.jpg",
+      "https://yamaha-mundoyamaha.com/wp-content/uploads/2023/09/xtz125_color-negra.png",
+      "https://allmotorsgroup.com.ar/wp-content/uploads/2019/02/yamaha-xtz-125-gallery-ffffff-020180518191203.jpg"
+    ],
+    "nombre": "Xtz 125",
+    "marca": "Yamaha",
+    "estrellas": 5,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+
+  {
+    "id": 6,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://discolmotos.com/wp-content/uploads/2020/01/nkd09jul2752.png",
+      "https://zagamotos.com/wp-content/uploads/2024/04/NKD-EX754867.png.webp",
+      "https://nkd.aktmotos.com/wp-content/uploads/2022/08/NKD_LED_right.png",
+      "https://i.pinimg.com/736x/2a/93/7f/2a937f8cde601ab9bed8b64ea1026f66.jpg"
+    ],
+    "nombre": "Nkd 125",
+    "marca": "Akt",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+
+  {
+    "id": 7,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://www.suzuki.com.co/sites/default/files/2023-02/GN125%20Roja.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLn0wG65__97X7n8336cO1pZy0z4qSQlvnGMwveL-r1gY_W0Aep9ppxO1BLCsjN0k5r-8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbPhKVn47usT4G9DcfRwIlbFViYaHs4IdfugeoxdMn8clLpZINyDUJ1jLLR6cF0Ss_XHc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbPhKVn47usT4G9DcfRwIlbFViYaHs4IdfugeoxdMn8clLpZINyDUJ1jLLR6cF0Ss_XHc&usqp=CAU"
+    ],
+    "nombre": "Gn 125",
+    "marca": "Suzuki",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+
+  {
+    "id": 8,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQDEio-ye5UD7h6jk57slaGs45LHx1v9x8iXvKIZJz422UWhHQVbYGGfQbyFq-8zaDhA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8GVEscUk-MzP6EWTQdrfifG7G5rYpY3LDa0VlwXVxPCupNS0Phrlf_IXPf7UE2aZBB0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBh7PcZuxdfyQPjJcoJz1kVFkCg1o57_Jcywr5Zll6RZQrAooS2JBd-X_eA3TSnGO1Ncc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBh7PcZuxdfyQPjJcoJz1kVFkCg1o57_Jcywr5Zll6RZQrAooS2JBd-X_eA3TSnGO1Ncc&usqp=CAU"
+    ],
+    "nombre": "Ybr 125",
+    "marca": "Honda",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  }
+
+]
