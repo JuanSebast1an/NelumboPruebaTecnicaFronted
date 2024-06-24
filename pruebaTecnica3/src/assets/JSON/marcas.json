@@ -1,0 +1,21 @@
+{
+    "celulares": [
+      { "label": "Apple", "value": "apple" },
+      { "label": "Samsung", "value": "samsung" },
+      { "label": "Huawei", "value": "huawei" },
+      { "label": "Xiaomi", "value": "xiaomi" },
+      { "label": "OPPp", "value": "oppp" },
+      { "label": "Sony", "value": "sony" },
+      { "label": "OnePlus", "value": "oneplus" },
+      { "label": "Google", "value": "google" },
+      { "label": "TCL", "value": "tcl" },
+      { "label": "Alcatel", "value": "alcatel" }
+    ],
+
+    "motocicletas": [
+      { "label": "Yamaha", "value": "Yamaha" },
+      { "label": "Akt", "value": "Akt" },
+      { "label": "Suzuki", "value": "Suzuki" },
+      { "label": "Honda", "value": "Honda" }
+    ]
+  }
